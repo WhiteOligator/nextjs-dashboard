@@ -1,6 +1,6 @@
 # Acme Dashboard
 
-Учебное full-stack приложение — финансовая панель управления, построенная по официальному курсу [Next.js Learn: App Router](https://nextjs.org/learn/dashboard-app). Проект показывает, как собрать современное приложение на Next.js App Router: с базой данных, аутентификацией, серверными действиями (Server Actions), потоковой отрисовкой и деплоем на Vercel.
+full-stack приложение — финансовая панель управления. Проект показывает, как собрать современное приложение на Next.js App Router: с базой данных, аутентификацией, серверными действиями (Server Actions), потоковой отрисовкой и деплоем на Vercel.
 
 > Демо-доступ в приложение:
 > **Email:** `user@nextmail.com`
@@ -138,6 +138,4 @@ auth.ts, auth.config.ts     # конфигурация NextAuth
 - **Мониторинг**: Vercel Analytics и Speed Insights.
 - **OAuth-провайдеры** (Google/GitHub) в дополнение к входу по паролю.
 
-## Источник
 
-Проект основан на официальном курсе [Next.js Learn — Dashboard App](https://nextjs.org/learn/dashboard-app).
